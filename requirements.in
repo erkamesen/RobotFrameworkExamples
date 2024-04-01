@@ -1,0 +1,7 @@
+robotframework
+robotframework-debuglibrary
+robotframework-csvlib
+robotframework-faker
+robotframework-databaselibrary
+psycopg2
+robotframework-requests
